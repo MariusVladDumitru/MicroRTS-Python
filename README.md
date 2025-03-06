@@ -19,4 +19,10 @@ No RL, DRL algorithms will be implemented here.
 - Exposing game state information
 
 # Tools
+- Miniconda or Anaconda
 - Python
+
+# Setup
+- Install Miniconda or Anaconda available at [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
+- Create new conda environment: ```conda create -n MicroRTS-Python```
+- Install python: ```conda install python```
